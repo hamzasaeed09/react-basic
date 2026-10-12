@@ -1,0 +1,41 @@
+.categoires-heading {
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.categoires-heading h2 {
+    text-align: center;
+
+
+}
+
+.categoires-heading p {
+    text-align: center;
+}
+
+.categories-section-one {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.categories-section-two {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    padding-top: 1rem;
+}
+
+.categories-card {
+    height: 100px;
+    width: 250px;
+    background-color: aqua;
+    border-radius: 1rem;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
